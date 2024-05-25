@@ -27,11 +27,3 @@
   border-radius: 50%;
 }
 
-.container{
-  display: flex;
-  gap: 20%;
-}
-
-.logos{
-  display: flex;
-}
